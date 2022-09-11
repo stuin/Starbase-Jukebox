@@ -1,0 +1,9 @@
+JM
+JN
+JS
+JZ
+Trk1
+Trk2
+
+// this is a memory chip, not a yolol chip
+// Including a Trk2 variable will help prevent errors when adding new songs.

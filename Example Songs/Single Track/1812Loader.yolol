@@ -1,4 +1,4 @@
-//song loader for 1812, credit to Deathwatch
+if :SongL==1 then goto2 end goto1 //1812, credit to Deathwatch
 a="  idadidadmmkkiikkmmkkiihmmddaaddiiddaadmmkkiikkmmkkiihmmhhhhiiiih"
 a+="hhhiiiihhhhiiiihhhhiiiihhhhiiiihhhhiiiihhhhiiiihhhhiiiihhhhkkkkdd"
 a+="diiiihhhhkkkkdddiiii    hhhh    ffff    dddd    ddddeeefffggghhhi"
@@ -7,14 +7,5 @@ a+="dddd    ffffiiiiffffff    iiiiffaaffiiddaaddiikkiid kkkkffbbffkkf"
 a+="fbbffkkmmkkf iiii ff mmffiiddmmddiikkiid iiii ii mmkkiikkmmkkiid "
 a+="iiiiddaaddiiddaaddiikkiid kkkkfbfkfbfkmkf iiii ii mmkkmikkmmkkiid"
 a+="iiii ii mmkkiikkmmkkiidii"
-:BTrk=a goto2
-
-
-
-
-
-//max chip length of 1292 notes = 258.4 seconds = 4m18.4s
-
-
-
+:Trk1=a :Trk2=a goto1
 

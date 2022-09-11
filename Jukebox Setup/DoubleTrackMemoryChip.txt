@@ -1,0 +1,12 @@
+JM
+JN
+JS
+JZ
+HM
+HN
+HS
+HZ
+Trk1
+Trk2
+
+// this is a memory chip, not a yolol chip

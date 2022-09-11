@@ -1,0 +1,7 @@
+v="`" w="n" x=0 y=-1
+:HM=y :HZ=0 t=:Trk2 goto:Play
+s=:HZ k=t :HS=k-t-- :HM+=(s>v)*(s<w)*x :P1=:HN>y :N1=:HN :HN=y z=:Play
+s=:HS k=t :HZ=k-t-- :HN+=(s>v)*(s<w)*x :P2=:HM>y :N2=:HM :HM=y gotoz
+:Play=2 goto1
+
+//Originally coded by Lumi and modified to fit multi-track by Waffle

@@ -1,0 +1,5 @@
+## Notes on adding new songs
+
+If you are writing your own music you can use the transposer script.  It is a bit more complicated but makes things a lot easier if you read music.  Basically follow the format of some of the other transposed songs in that folder.  Spaces in those .txt files are the equivalent of rests, and it is written such that the smallest unit are eight notes.  If you see a "D " then that is a quarter note D as an example.  You do need to start a new line for every note change, but spaces can go on lines with notes.
+
+If you are writing your own music and dont want to use the transposer, remember that you need to reverse the text of your song when putting it into a Song Loader yolol chip, because it reads it backwards.  A website like https://www.browserling.com/tools/text-reverse  will do that for you.  You can write it normally, just reverse it with this tool.  The chromatic octave is transcribed in the code such that A=a, A#=b, B=c, ... , C.=m (C. is the higher C).

@@ -1,0 +1,15 @@
+if :SongL==5 then goto2 end goto1 // Bad Apple by Stuin
+he="                                " es=he+he
+v1=" i g e deg igedbdegi b ikl igedbdabdedbdeg igedbdegi b ikl igedb"
+c1="li bigedba badegig igimlig igimlli bigedba badegig igimlig igiml"
+c2="li badegig ilmncnm igimlig igimlli bigedba badegig igimlig igiml"
+c3="   badegig ilmncnm igimlig igimlli bigedba badegig igimlig igiml"
+s1="mj bjhfdba badfhgh jhjnkjh jhjnmmj bjhfdba badfhjh jhjnkjh igiml"
+s3="   badfhjh jmncdcn jhjnkjh jhjnmmj bjhfdba badfhjh jhjnkjh igiml"
+bv=" ede geg db d dd db d dd db d dd geg ede db d dd db d dd db d dd"
+b1=" db d dd db d dd bb b bb aa a aa geg ede db d dd db d dd db d dd"
+b2=" db d dd db d dd bb b bb aa a aa db d dd db d dd bb b bb aa a aa"
+eb="  d d dd d dd d dd d dd d dd d b" 
+:Trk1=he+s3+s1+c3+c1+v1+v1+bv+c3+c1+c2+c1+v1+v1+bv
+:Trk2=eb+es+b2+b2+b2+b1+b1+bv+es+es+b2+b2+b1+es+bv
+:SongLoad=-1 goto1

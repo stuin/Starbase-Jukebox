@@ -1,0 +1,11 @@
+b1="\n<Song 1>" b2="\n<Song 2>" b3="\n<Song 3>"
+b4="\n<Song 4>" b2="\n<Song 5>" b3="\n<Song 6>"
+
+a="<" h1=b6+b5+b4 h2=b3+b2+b1 s2=h1+b3+b2+a+b1+2
+s1=h1+h2+a+1 s3=h1+b3+a+b2+b1+3 s4=h1+a+h2+4 s5=b6+b5+a+b4+h2+5
+s6=b6+a+b5+b4+h2+6 ss=s1+s2+s3+s4+s5+s6 :Song=s2-2 m=0
+if m!=:SongL then m=(:SongL+0.5)/1000 m*=1000 :SongL=m else goto7 end
+:Song=ss-(m+"")-s1-s2-s3-s4-s5-s6 :SongLoad=0 goto7
+
+//Songs are listed in reverse order
+//Names should be no more than 10 characters long

@@ -1,19 +1,7 @@
-//song loader for Stayin Alive, credit to Emily and Waffle
+if :SongL==3 then goto2 end goto1 //Stayin Alive, Emily and Waffle
 a="c       e       fhj          h            jfff   e   fh   j    "
 a+="fffe    fffe   e   f   h   j    fffe    fffeeeeffff hhhjjjjj   "
 a+="  fffe    fff eeeffff hhhjjjjj    l l m j l lj   l lj   l lj    "
 a+="h h j f h hf   h hf   h  hffc c c ca  ff f cc h f fc  j jj    "
 a+="cc c a   cfffcc h f f chfh  j jf c"
-:DTrk=a goto2
-
-
-
-
-
-
-
-//max chip length of 1292 notes = 258.4 seconds = 4m18.4s
-
-
-
-
+:Trk1=a :Trk2=a goto1

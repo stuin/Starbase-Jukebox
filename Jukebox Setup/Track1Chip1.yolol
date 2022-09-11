@@ -1,0 +1,11 @@
+v="`" w="n" x=0 y=-1
+:JM=y :JZ=0 t=:Trk1 goto:Play
+s=:JZ k=t :JS=k-t-- :JM+=(s>v)*(s<w)*x :P1=:JN>y :N1=:JN :JN=y z=:Play
+s=:JS k=t :JZ=k-t-- :JN+=(s>v)*(s<w)*x :P2=:JM>y :N2=:JM :JM=y gotoz
+:Play=2 goto1
+
+//Originally coded by Lumi and modified to fit multi-track by Waffle
+//for simultaneous tracks change "J"s to another letter in 2 new chips
+
+//for looping support, replace line 5 with line 11 below
+if :Loop==0 then :Play=2 end goto1
