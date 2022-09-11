@@ -1,0 +1,26 @@
+t=:Trk v="`" w="n" x=0 y=-1 :HM=y :HZ=0 :SSP0=2
+goto:SSP0
+s=:HZ k=t :HS=k-t-- :HM+=(s>v)*(s<w)*x :HO=:HN>y :HT=:HN :HN=y z=:SSP0
+s=:HS k=t :HZ=k-t-- :HN+=(s>v)*(s<w)*x :HP=:HM>y :HU=:HM :HM=y gotoz
+:SSP0=5 goto1
+
+//Originally coded by Lumi and modified to fit multi-track by Waffle
+//for simultaneous tracks change "H"s to another letter in 2 new chips
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,19 @@
+a="a" b="b" c="c" d="d" e="e" f="f" g="g" h="h" i="i" j="j"
+k="k" l="l" m="m" goto:SSP0
+s=:HZ :HM+=s>a+s>b+s>c+s>d+s>e+s>f+s>g+s>h+s>i+s>j+s>k+s>l+s>m z=:SSP0
+s=:HS :HN+=s>a+s>b+s>c+s>d+s>e+s>f+s>g+s>h+s>i+s>j+s>k+s>l+s>m gotoz
+goto2
+
+//Originally coded by Lumi and modified to fit multi-track by Waffle
+//for simultaneous tracks change "H"s to another letter in 2 new chips
+
+
+
+
+
+
+
+
+
+
+

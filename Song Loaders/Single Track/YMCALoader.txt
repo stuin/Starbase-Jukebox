@@ -1,0 +1,19 @@
+//song loader for YMCA, credit to Emily and Waffle
+a="      h j m mhjmjm  jmmmjm  jmmmjm  jjj mc e   cacehehe hj h   j h"
+a+="ehehe  h h h h c e  f  h  j  l jm jfecef    fj he fecace    ej he"
+a+=" hecace    eh c e  f  h  j  l jm jfecef    fj he fecace"
+a+="    ej he hecace    eh"
+:CTrk=a goto2
+
+
+
+
+
+
+
+
+//max chip length of 1292 notes = 258.4 seconds = 4m18.4s
+
+
+
+

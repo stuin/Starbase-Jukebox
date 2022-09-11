@@ -1,0 +1,19 @@
+//song loader for Bad Apple, credit to Lumi Virtual
+a="  aacdfhf hhjlmlj hfhmkhf hfhmkhf ahfdcca aacdfhf hfhmkhf hfhmkhf "
+a+="ahfdcca aacdfhf hfhmkhf hfhmkhf ahfdcca aacdfhf hfhmkhf hfhmkhf a"
+a+="acdfhf hhjlmlj hfhmkhf hfhmkhf ahfdcca aacdfhf hfhmkhf hfhmkhf ah"
+a+="fdcca aacdfhf hfhmkhf hfhmkhf ahfdcca aacdfhf hfhmkhf hfhmk h f d"
+a+="fdcca aacdfhf hfhmkhf hfhmkhf ahfdcca aacdfhf hfhmkhf hfhmk h f d"
+a+=" cdf hfdcacdfh a hkm hfdcacaacdcacdf hfdcacdfh a hkm hfdca g f d "
+a+="cdf hfdcacdfh a hkm hfdcacaacdcacdf hfdcacdfh a hkm hfdca"
+:ATrk=a goto2
+
+
+
+
+
+//max chip length of 1292 notes = 258.4 seconds = 4m18.4s
+
+
+
+

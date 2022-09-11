@@ -1,0 +1,12 @@
+ATrk
+BTrk
+CTrk
+DTrk
+Trk
+SSP0
+HO
+HT
+HP
+HU
+
+// this is a memory chip, not a yolol chip

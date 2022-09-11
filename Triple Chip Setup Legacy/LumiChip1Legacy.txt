@@ -1,0 +1,19 @@
+t=:Trk a="a" b=81 c="b" d=82 z=-1 :IS=0 :I=z goto:PL
+goto :Pl
+s=:IS k=t t-- :HS=k-t :I+=(s==a)*b+(s==c)*d :HA=:H>z :HB=:H :H=z x=:Pl
+s=:HS k=t t-- :IS=k-t :H+=(s==a)*b+(s==c)*d :IA=:I>z :IB=:I :I=z gotox
+goto1
+
+// Lumi's music script chip 1
+
+
+
+
+
+
+
+
+
+
+
+

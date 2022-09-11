@@ -1,0 +1,19 @@
+a="i" b=89 c="j" d=90 e="k" f=91 g="l" h=92 i="m" j=93 k="{" l=71
+goto :Pl
+s=:IS :I+=(s==a)*b+(s==c)*d+(s==e)*f+(s==g)*h+(s==i)*j+(s==k)*l z=:Pl
+s=:HS :H+=(s==a)*b+(s==c)*d+(s==e)*f+(s==g)*h+(s==i)*j+(s==k)*l goto z
+
+// Lumi's music script chip 3
+
+
+
+
+
+
+
+
+
+
+
+
+

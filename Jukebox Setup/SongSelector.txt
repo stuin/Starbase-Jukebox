@@ -1,0 +1,19 @@
+if :selector==0 then goto1 else goto2 end
+If :asong==1 then :Trk=:ATrk end if :bsong==1 then :Trk=:Btrk end
+If :csong==1 then :Trk=:CTrk end if :dsong==1 then :Trk=:Dtrk end
+goto 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

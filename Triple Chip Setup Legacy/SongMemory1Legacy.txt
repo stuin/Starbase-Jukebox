@@ -1,0 +1,12 @@
+ATrk
+BTrk
+CTrk
+DTrk
+Trk
+Pl
+H
+I
+HS
+IS
+
+// this is a memory chip
