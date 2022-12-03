@@ -7,5 +7,6 @@ a+="dddd    ffffiiiiffffff    iiiiffaaffiiddaaddiikkiid kkkkffbbffkkf"
 a+="fbbffkkmmkkf iiii ff mmffiiddmmddiikkiid iiii ii mmkkiikkmmkkiid "
 a+="iiiiddaaddiiddaaddiikkiid kkkkfbfkfbfkmkf iiii ii mmkkmikkmmkkiid"
 a+="iiii ii mmkkiikkmmkkiidii"
-:Trk1=a :Trk2=a goto1
+NowPlaying="1812 : Tchaikovsky : Deathwatch"
+:Trk1=a :Trk2=a :SongLoad=-1 goto1
 

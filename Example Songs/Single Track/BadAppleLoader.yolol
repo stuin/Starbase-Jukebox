@@ -6,4 +6,5 @@ a+="fdcca aacdfhf hfhmkhf hfhmkhf ahfdcca aacdfhf hfhmkhf hfhmk h f d"
 a+="fdcca aacdfhf hfhmkhf hfhmkhf ahfdcca aacdfhf hfhmkhf hfhmk h f d"
 a+=" cdf hfdcacdfh a hkm hfdcacaacdcacdf hfdcacdfh a hkm hfdca g f d "
 a+="cdf hfdcacdfh a hkm hfdcacaacdcacdf hfdcacdfh a hkm hfdca"
-:Trk1=a :Trk2=a goto1
+:NowPlaying="Bad Apple : Nomico : Lumi Virtual"
+:Trk1=a :Trk2=a :SongLoad=-1 goto1

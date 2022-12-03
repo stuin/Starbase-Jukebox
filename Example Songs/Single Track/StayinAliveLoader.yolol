@@ -4,4 +4,5 @@ a+="fffe    fffe   e   f   h   j    fffe    fffeeeeffff hhhjjjjj   "
 a+="  fffe    fff eeeffff hhhjjjjj    l l m j l lj   l lj   l lj    "
 a+="h h j f h hf   h hf   h  hffc c c ca  ff f cc h f fc  j jj    "
 a+="cc c a   cfffcc h f f chfh  j jf c"
-:Trk1=a :Trk2=a goto1
+:NowPlaying="Stayin' Alive : Bee Gees : Emily and Waffle"
+:Trk1=a :Trk2=a :SongLoad=-1 goto1

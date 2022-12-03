@@ -12,4 +12,5 @@ b2=" db d dd db d dd bb b bb aa a aa db d dd db d dd bb b bb aa a aa"
 eb="  d d dd d dd d dd d dd d dd d b" 
 :Trk1=he+s3+s1+c3+c1+v1+v1+bv+c3+c1+c2+c1+v1+v1+bv
 :Trk2=eb+es+b2+b2+b2+b1+b1+bv+es+es+b2+b2+b1+es+bv
+:NowPlaying="Bad Apple : Nomico : Stuin"
 :SongLoad=-1 goto1

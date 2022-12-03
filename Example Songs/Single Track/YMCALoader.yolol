@@ -3,4 +3,5 @@ a="      h j m mhjmjm  jmmmjm  jmmmjm  jjj mc e   cacehehe hj h   j h"
 a+="ehehe  h h h h c e  f  h  j  l jm jfecef    fj he fecace    ej he"
 a+=" hecace    eh c e  f  h  j  l jm jfecef    fj he fecace"
 a+="    ej he hecace    eh"
-:Trk1=a :Trk2=a goto1
+:NowPlaying="YMCA : Village People : Emily and Waffle"
+:Trk1=a :Trk2=a :SongLoad=-1 goto1
