@@ -1,7 +1,8 @@
 v="`" w="n" x=0 y=-1
-:HM=y :HZ=0 t=:Trk2 goto:Play
-s=:HZ k=t :HS=k-t-- :HM+=(s>v)*(s<w)*x :P1=:HN>y :N1=:HN :HN=y z=:Play
-s=:HS k=t :HZ=k-t-- :HN+=(s>v)*(s<w)*x :P2=:HM>y :N2=:HM :HM=y gotoz
-:Play=2 goto1
+:HM=y :HZ=0 t=:Trk2 goto:Play+2
+s=:HZ k=t :HS=k-t-- :HM+=(s>v)*(s<w)*x :P3=:HN>y :N3=:HN :HN=y z=:Play
+s=:HS k=t :HZ=k-t-- :HN+=(s>v)*(s<w)*x :P4=:HM>y :N4=:HM :HM=y gotoz+2
+goto1
 
-//Originally coded by Lumi and modified to fit multi-track by Waffle
+//Originally coded by Lumi and modified by Waffle and Stuin
+//End of song handled by Track 1 Chip 1

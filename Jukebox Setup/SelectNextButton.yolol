@@ -1,0 +1,10 @@
+c=0 maxL=5
+c=:Next-:Prev if c!=0 then :Next=0 :Prev=0 p=:Play goto4 end goto2
+c=:Next if c!=0 then :Next=0 p=:Play goto4 end goto3
+:SongL+=c if :SongL>maxL then :SongL=1 end :SongLoad=0 :Play=0
+if :SongLoad==0 then goto5 end
+:Play=p goto1
+
+//Line 2 will loop if prev button exists, otherwise line 3
+//List of songs must be sequential from 1 to maxL
+//Next can be a button or a 3 way switch

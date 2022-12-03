@@ -1,7 +1,8 @@
 a="a" b="b" c="c" d="d" e="e" f="f" g="g" h="h" i="i" j="j"
-k="k" l="l" m="m" n="n" goto:Play
+k="k" l="l" m="m" n="n" goto:Play+2
 s=:HZ :HM+=s>a+s>b+s>c+s>d+s>e+s>f+s>g+s>h+s>i+s>j+s>k+s>l+s>m z=:Play
-s=:HS :HN+=s>a+s>b+s>c+s>d+s>e+s>f+s>g+s>h+s>i+s>j+s>k+s>l+s>m gotoz
+s=:HS :HN+=s>a+s>b+s>c+s>d+s>e+s>f+s>g+s>h+s>i+s>j+s>k+s>l+s>m gotoz+2
 goto1
 
-//Originally coded by Lumi and modified to fit multi-track by Waffle
+//Originally coded by Lumi and modified by Waffle and Stuin
+//End of song handled by Track 1 Chip 1
