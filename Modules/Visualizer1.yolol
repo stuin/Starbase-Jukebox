@@ -1,0 +1,9 @@
+B="     " L0=B+B+0 L1="#    " L2="##   " L3="###  "
+L4="#### " L5="#####" L6=L5+L1+6 L7=L5+L2+7 L8=L5+L3+8
+L1+=B+1 L2+=B+2 L3+=B+3 L4+=B+4 L5+=B+5
+LL=L0+L1+L2+L3+L4+L5+L6+L7
+
+
+M=1000 T=2000 B="          " B+=B goto :Play+7
+N=(:N1+1)/T*M :CX=13 :SV=LL-N-L0-L1-L2-L3-L4-L5-L6-L7+B
+N=(:N2+1)/T*M :CX=13 :SV=LL-N-L0-L1-L2-L3-L4-L5-L6-L7+B goto :Play+7

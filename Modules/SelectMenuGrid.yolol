@@ -1,0 +1,14 @@
+sa=". " ea=" " sb=".>" eb="<" sc=". " sd=".>"
+:SLX=1 :SLY=1 m=0 goto3
+if m!=:SongL then m=(:SongL+0.5)/1000 m*=1000 :SongL=m else goto3 end
+:SongLoad=0 :SLX=1 :SLY=1 :SLT="Song List:"
+:SLX=1 :SLY=2 s=sa e=ea if m==1 then s=sb e=eb end :SLT=1+s+:sn1+e
+:SLX=1 :SLY=3 s=sa e=ea if m==2 then s=sb e=eb end :SLT=2+s+:sn2+e
+:SLX=1 :SLY=4 s=sa e=ea if m==3 then s=sb e=eb end :SLT=3+s+:sn3+e
+:SLX=1 :SLY=5 s=sa e=ea if m==4 then s=sb e=eb end :SLT=4+s+:sn4+e
+:SLX=1 :SLY=6 s=sa e=ea if m==5 then s=sb e=eb end :SLT=5+s+:sn5+e
+:SLX=1 :SLY=7 s=sa e=ea if m==6 then s=sb e=eb end :SLT=6+s+:sn6+e
+:SLX=1 :SLY=8 s=sa e=ea if m==7 then s=sb e=eb end :SLT=7+s+:sn7+e
+:SLX=1 :SLY=9 s=sa e=ea if m==8 then s=sb e=eb end :SLT=8+s+:sn8+e
+:SLX=1 :SLY=10 s=sa e=ea if m==9 then s=sb e=eb end :SLT=9+s+:sn9+e
+goto3
